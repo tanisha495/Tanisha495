@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Email-tanisha.khanna2022@gmail.com-red" />
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-blue" />
   <img src="https://img.shields.io/badge/Location-Delhi,%20India-lightgrey" />
 </p>
 
@@ -19,10 +18,10 @@ I love turning innovative ideas into practical solutions and enjoy working on pr
 ---
 
 ### 🔧 Tech Stack
-- 💻 Languages: C++, Python, JavaScript, HTML/CSS, Kotlin
+- 💻 Languages: C++, Python, JavaScript, HTML/CSS
 - 🌐 Web Development: HTML, CSS, JavaScript
 - 🤖 Machine Learning: Basic knowledge with application in research
-- 🔧 Tools & Technologies: Git, GitHub, VS Code
+- 🔧 Tools & Technologies: Git, GitHub, VS Code, BitBucket
 
 ---
 
@@ -40,6 +39,8 @@ Here are some of my highlighted repositories:
 - 📄 Co-authored a research paper:  
   **“Decoding Breast Cancer Prognosis: An AI-Driven Analytical Approach”**  
   Presented at **ICDAM 2025 - International Conference on Data Analytics & Management**, Springer.
+- Selected as a **Flipkart Girls Wanna Code 7.0 Scholar**, ranking among the **top 200 students** across India from
+27K+ registrations.
 
 ---
 
